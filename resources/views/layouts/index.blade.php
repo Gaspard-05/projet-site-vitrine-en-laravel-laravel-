@@ -73,25 +73,25 @@
                 <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
                   <ul id="nav" class="navbar-nav ms-auto">
                     <li class="nav-item">
-                      <a class="page-scroll active" href="#home">Accueil</a>
+                      <a class="page-scroll active" href="/">Accueil</a>
                     </li>
                     <li class="nav-item">
-                      <a class="page-scroll" href="#about">À propos</a>
+                      <a class="page-scroll" href="/about">À propos</a>
                     </li>
                     <li class="nav-item">
-                      <a class="page-scroll" href="#service">Services</a>
+                      <a class="page-scroll" href="/services">Services</a>
                     </li>
                     <li class="nav-item">
-                      <a class="" href="#0">Portfolio</a>
+                      <a class="" href="/portfolio">Portfolio</a>
                     </li>
                     <li class="nav-item">
-                      <a class="" href="#0">Tarifs</a>
+                      <a class="" href="/tarifs">Tarifs</a>
                     </li>
                     <li class="nav-item">
-                      <a class="" href="#0">Équipe</a>
+                      <a class="" href="/equipe">Équipe</a>
                     </li>
                     <li class="nav-item">
-                      <a class="" href="#0">Contact</a>
+                      <a class="" href="/contact">Contact</a>
                     </li>
                   </ul>
                 </div>

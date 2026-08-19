@@ -1,14 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Page Services</title>
-</head>
-<body>
-    <h1>NOUS SOMMES</h1>
-    <p>Contenu de la page NOUS SOMMES</p>
+@extends('layouts.index')
 
-</body>
-</html>
+@section('content')
+<section class="pt-150 pb-150">
+    <div class="container">
+        <h1>NOUS SOMMES</h1>
+        <p>Contenu de la page NOUS SOMMES</p>
+    </div>
+</section>
+@endsection
