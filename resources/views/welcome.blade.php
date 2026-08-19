@@ -19,7 +19,7 @@
 					</div>
 					<div class="col-lg-6">
 						<div class="hero-img wow fadeInUp" data-wow-delay=".5s">
-							<img src="/assets/img/hero/hero-img.svg" alt="">
+							<img class="img-fluid rounded-3" src="https://images.unsplash.com/photo-1681164315051-add1906a9b07?q=80&w=839&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="">
 						</div>
 					</div>
         </div>
@@ -28,7 +28,7 @@
 		<!-- ========================= hero-section end ========================= -->
 
 		<!-- ========================= client-logo-section start ========================= -->
-		<section class="client-logo-section pt-150">
+		<section class="client-logo-section pt-60 pb-60">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-3 col-sm-6">
@@ -57,7 +57,7 @@
 		<!-- ========================= client-logo-section end ========================= -->
 
 		<!-- ========================= about-section start ========================= -->
-		<section id="about" class="about-section pt-150">
+		<section id="about" class="about-section pt-60">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-6">
@@ -69,7 +69,7 @@
 						<div class="about-content mb-50">
 							<div class="section-title mb-50">
 								<h1 class="mb-25">En savoir plus sur notre agence digitale</h1>
-								<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores.</p>
+								<p>DevPro Mindset accompagne les entreprises et entrepreneurs dans la création de leur présence digitale. De la conception UI/UX au développement web, en passant par le design graphique et l'identité de marque, nous transformons vos idées en expériences digitales concrètes et impactantes.</p>
 							</div>
 							<div class="accordion pb-15" id="accordionExample">
 								<div class="single-faq">
@@ -79,7 +79,7 @@
 
 									<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
 										<div class="faq-content">
-											Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch.
+											Nous proposons du design UI/UX, de la conception de sites web, du design graphique ainsi que la création d'identité de marque, avec un accompagnement personnalisé à chaque étape de votre projet.
 										</div>
 									</div>
 								</div>
@@ -89,7 +89,7 @@
 									</button>
 									<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
 										<div class="faq-content">
-											Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch.
+											Il vous suffit de nous exposer votre vision, vos objectifs et vos contraintes : nous nous chargeons d'établir un cahier des charges clair et de vous proposer les premières pistes créatives.
 										</div>
 									</div>
 								</div>
@@ -99,7 +99,7 @@
 									</button>
 									<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
 										<div class="faq-content">
-											Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch.
+											Notre processus se déroule en quatre étapes : découverte de votre projet, recherche et conception créative, réalisation avec allers-retours réguliers, puis livraison et accompagnement au lancement.
 										</div>
 									</div>
 								</div>
@@ -119,7 +119,7 @@
 					<div class="col-xxl-5 col-xl-6 col-lg-7 col-md-10">
 						<div class="section-title text-center mb-50">
 							<h1>Nos services</h1>
-							<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labore.</p>
+							<p>Des solutions digitales complètes pensées pour donner à votre marque une présence forte et cohérente, du concept jusqu'à la mise en ligne.</p>
 						</div>
 					</div>
 				</div>
@@ -132,7 +132,7 @@
 							</div>
 							<div class="content">
 								<h3>Design UI/UX</h3>
-								<p>Lorem ipsum dolor sitsdw consetsad pscing eliewtr, diam nonumy.</p>
+								<p>Des interfaces intuitives et esthétiques pensées pour offrir la meilleure expérience possible à vos utilisateurs.</p>
 							</div>
 						</div>
 					</div>
@@ -143,7 +143,7 @@
 							</div>
 							<div class="content">
 								<h3>Conception web</h3>
-								<p>Lorem ipsum dolor sitsdw consetsad pscing eliewtr, diam nonumy.</p>
+								<p>Des sites web modernes, performants et responsives, développés sur mesure pour répondre à vos objectifs.</p>
 							</div>
 						</div>
 					</div>
@@ -154,7 +154,7 @@
 							</div>
 							<div class="content">
 								<h3>Design graphique</h3>
-								<p>Lorem ipsum dolor sitsdw consetsad pscing eliewtr, diam nonumy.</p>
+								<p>Des créations visuelles percutantes : supports imprimés, visuels réseaux sociaux et éléments graphiques pour votre communication.</p>
 							</div>
 						</div>
 					</div>
@@ -165,7 +165,7 @@
 							</div>
 							<div class="content">
 								<h3>Design de marque</h3>
-								<p>Lorem ipsum dolor sitsdw consetsad pscing eliewtr, diam nonumy.</p>
+								<p>Une identité de marque forte et cohérente : logo, charte graphique et univers visuel qui vous démarquent durablement.</p>
 							</div>
 						</div>
 					</div>
@@ -187,7 +187,7 @@
 						<div class="counter-up-content mb-50">
 							<div class="section-title mb-40">
 								<h1 class="mb-20 wow fadeInUp" data-wow-delay=".2s">Pourquoi sommes-nous les meilleurs, pourquoi nous engager ?</h1>
-								<p class="wow fadeInUp" data-wow-delay=".4s">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</p>
+								<p class="wow fadeInUp" data-wow-delay=".4s">Une équipe passionnée, une approche centrée sur vos objectifs et un savoir-faire éprouvé en design digital : voici ce qui nous distingue à chaque projet.</p>
 							</div>
 							<div class="counter-up-wrapper">
 								<div class="row">
@@ -256,7 +256,7 @@
 					<div class="col-xl-6 col-lg-7">
 						<div class="section-title mb-50">
 							<h1 class="mb-20 wow fadeInUp" data-wow-delay=".2s">Vous avez un projet en tête ? Vous pouvez nous engager</h1>
-							<p class="wow fadeInUp" data-wow-delay=".4s">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.</p>
+							<p class="wow fadeInUp" data-wow-delay=".4s">Contactez-nous dès aujourd'hui et donnons ensemble vie à votre projet digital, du premier échange jusqu'à la mise en ligne.</p>
 						</div>
 					</div>
 					<div class="col-xl-6 col-lg-5">

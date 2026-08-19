@@ -819,6 +819,7 @@ p {
 
 .client-logo-section .single-logo img {
   max-width: 100%;
+  width: 120px;
 }
 
 /* ======= about css ========*/
