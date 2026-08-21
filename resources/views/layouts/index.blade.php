@@ -63,7 +63,7 @@
           <div class="row align-items-center">
             <div class="col-lg-12">
               <nav class="navbar navbar-expand-lg">
-                <a class="navbar-brand brand-text" href="/">DevPro<span>Mindset</span></a>
+                <a class="navbar-brand brand-text" href="{{ route('home') }}">DevPro<span>Mindset</span></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="toggler-icon"></span>
                   <span class="toggler-icon"></span>
@@ -73,25 +73,25 @@
                 <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
                   <ul id="nav" class="navbar-nav ms-auto">
                     <li class="nav-item">
-                      <a class="page-scroll active" href="/">Accueil</a>
+                      <a class="page-scroll active" href="{{ route('home') }}">Accueil</a>
                     </li>
                     <li class="nav-item">
-                      <a class="page-scroll" href="/about">À propos</a>
+                      <a class="page-scroll" href="{{ route('about') }}">À propos</a>
                     </li>
                     <li class="nav-item">
-                      <a class="page-scroll" href="/services">Services</a>
+                      <a class="page-scroll" href="{{ route('services') }}">Services</a>
                     </li>
                     <li class="nav-item">
-                      <a class="" href="/portfolio">Portfolio</a>
+                      <a class="" href="{{ route('portfolio') }}">Portfolio</a>
                     </li>
                     <li class="nav-item">
-                      <a class="" href="/tarifs">Tarifs</a>
+                      <a class="" href="{{ route('tarifs') }}">Tarifs</a>
                     </li>
                     <li class="nav-item">
-                      <a class="" href="/equipe">Équipe</a>
+                      <a class="" href="{{ route('equipe') }}">Équipe</a>
                     </li>
                     <li class="nav-item">
-                      <a class="" href="/contact">Contact</a>
+                      <a class="" href="{{ route('contact') }}">Contact</a>
                     </li>
                   </ul>
                 </div>
@@ -123,7 +123,7 @@
 						<div class="col-xl-3 col-md-6">
 							<div class="footer-widget">
 								<div class="logo mb-35">
-									<a href="index.html"> <img src="/assets/img/logo/logo.svg" alt=""> </a>
+									<a href="{{ route('home') }}"> <img src="/assets/img/logo/logo.svg" alt=""> </a>
 								</div>
 								<p class="desc mb-35">Nous sommes une équipe de designers experts. Nous avons de nombreux designers et développeurs. Si vous avez un projet, vous pouvez nous engager pour créer un site web.</p>
 								<ul class="socials">
@@ -147,13 +147,13 @@
 							<div class="footer-widget">
 								<h3>Liens</h3>
 								<ul class="links">
-									<li> <a href="javascript:void(0)">Accueil</a> </li>
-									<li> <a href="javascript:void(0)">À propos</a> </li>
-									<li> <a href="javascript:void(0)">Services</a> </li>
-									<li> <a href="javascript:void(0)">Portfolio</a> </li>
-									<li> <a href="javascript:void(0)">Tarifs</a> </li>
-									<li> <a href="javascript:void(0)">Équipe</a> </li>
-									<li> <a href="javascript:void(0)">Contact</a> </li>
+									<li> <a href="{{ route('home') }}">Accueil</a> </li>
+									<li> <a href="{{ route('about') }}">À propos</a> </li>
+									<li> <a href="{{ route('services') }}">Services</a> </li>
+									<li> <a href="{{ route('portfolio') }}">Portfolio</a> </li>
+									<li> <a href="{{ route('tarifs') }}">Tarifs</a> </li>
+									<li> <a href="{{ route('equipe') }}">Équipe</a> </li>
+									<li> <a href="{{ route('contact') }}">Contact</a> </li>
 								</ul>
 							</div>
 						</div>
